@@ -2,8 +2,7 @@
 - 👀 I’m interested in software engineering, Data Science, particularly Artificial Intelligence and Machine Learning
 - 🌱 I’m graduated student of Computer Science and Aritificial Intelligence at Aberystwyth University
 - 💞️ At the moment I’m looking to collaborate on interesting data science / data analytics, especially focused on medical area (highly interested!) 
-- 📫 How to reach me - wsowinski@sii.pl / wojciech.sowinski@windowslive.com
-- 🔭 I’m currently working on [report generator](https://github.com/vvojtko/report_generator) - project with a purpose to automate reporting for Daimler/MBMPL
+- 📫 How to reach me - wojciech.sowinski@windowslive.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
